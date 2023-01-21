@@ -9,7 +9,7 @@
 
 ## Tips
 
-- This version of firmware contains most of the basic features I use for my router (x86-64), including but not limited to: OpenClash, AdGuard Home, Passwall, SSR+, ServerChan, DDNS (with CloudFlare-v4 support), SmartDNS and a lot of other packages.
+- This version of firmware contains most of the basic features I use for my router (x86-64), including but not limited to: OpenClash, AdGuard Home, Passwall, SSR+, ServerChan, DDNS (with CloudFlare-v4 support), MosDNS and a lot of other packages.
 
 ## Credits
 
