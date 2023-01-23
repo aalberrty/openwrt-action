@@ -1,6 +1,6 @@
 **English** | [中文](https://zackie.win/404)
 
-# zackie's OpenWrt Compile GitHub Action
+# zackie's OpenWrt Compiled with GitHub Action
 
 [![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=LICENSE)](https://github.com/aalberrty/openwrt-action/blob/main/LICENSE)
 
