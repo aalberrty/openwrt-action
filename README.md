@@ -6,6 +6,7 @@
 
 ## Usage
 - Download the firmware package from the [Releases](https://github.com/aalberrty/openwrt-action/releases) page.
+- The default ip is: 192.168.50.201
 
 ## Tips
 
