@@ -22,7 +22,7 @@ git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git package/lea
 # 替换默认主题为 luci-theme-argon
 sed -i 's/luci-theme-bootstrap/luci-theme-argon/' feeds/luci/collections/luci/Makefile
 
-# 设置默认IP为 192.168.199.1
+# 设置默认IP为 192.168.50.201
 sed -i 's/192.168.1.1/192.168.50.201/g' package/base-files/files/bin/config_generate
 
 #Mosdns repo
