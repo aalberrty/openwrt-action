@@ -1,6 +1,6 @@
 **English** | [中文](https://zackie.win/404)
 
-# zackie's OpenWrt Compiled with GitHub Action
+# ZetaLabs' OpenWrt Compiled with GitHub Action
 
 [![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=LICENSE)](https://github.com/aalberrty/openwrt-action/blob/main/LICENSE)
 
@@ -10,7 +10,7 @@
 
 ## Tips
 
-- This version of firmware contains most of the basic features I use for my router (x86-64), including but not limited to: OpenClash, AdGuard Home, Passwall, SSR+, ServerChan, DDNS (with CloudFlare-v4 support), MosDNS and a lot of other packages.
+- This OpenWrt firmware builds with some basic packages I use for my router (x86-64), including but not limited to: OpenClash, ServerChan, DDNS (with CloudFlare-v4 support), and some of other useful packages.
 
 ## Credits
 
@@ -32,4 +32,4 @@
 
 ## License
 
-[MIT](https://github.com/aalberrty/openwrt-action/blob/main/LICENSE) © [**ZACKIE**](https://zackie.win)
+[MIT](https://github.com/aalberrty/openwrt-action/blob/main/LICENSE) © [**ZetaLabs**](https://zackie.win)
